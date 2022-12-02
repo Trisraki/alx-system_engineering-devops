@@ -1,2 +1,3 @@
-#!/bin/bash
-rm *~
+#!/bn/bash
+mkdir -p welcome/to/school
+mkdir -p welcome/to/school
