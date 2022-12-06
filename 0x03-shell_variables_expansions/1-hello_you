@@ -1,2 +1,2 @@
-#!/bin/bash
-hello user 
+#!/bin/bas
+hello $USER
