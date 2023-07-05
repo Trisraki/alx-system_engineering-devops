@@ -1,6 +1,2 @@
-0x0B. SSH
-DevOps
-SSH
-Network
-SysAdmin
-Security
+# 0x0B-ssh
+
